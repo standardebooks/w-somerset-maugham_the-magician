@@ -6,10 +6,6 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:letter"]{
-	font-style: italic;
-}
-
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
@@ -21,9 +17,5 @@ footer{
 }
 
 q{
-	font-style: italic;
-}
-
-blockquote{
 	font-style: italic;
 }
