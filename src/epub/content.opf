@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-somerset-maugham/the-magician</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-11-30T01:17:08Z</dc:date>
+		<meta property="dcterms:modified">2021-11-30T01:17:08Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,20 +35,18 @@
 		<meta property="term" refines="#subject-1">sh2008109262</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008107174</meta>
-		<meta property="se:subject">Drama</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">A man who claims to have practical knowledge of the occult is introduced to a young engaged couple.</dc:description>
+		<dc:description id="description">A young engaged couple meet a mysterious man who claims to have practical knowledge of the occult.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In Paris surgeon Arthur Burdon and his fiancé are introduced to Oliver Haddo, a wealthy Englishman from an old family who claims to be a magician trained in the occult. At first they are unconvinced and irritated by Haddo’s boasts; however he soon demonstrates his powers in more and more fateful ways.&lt;/p&gt;
-			&lt;p&gt;The character of Oliver Haddo is an unflattering caricature of the English occultist Alistair Crowley, whom &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;Somerset Maugham&lt;/a&gt; had met while living in Paris. Crowley himself wrote a review in &lt;i&gt;Vanity Fair&lt;/i&gt; in which he accused Maugham of plagiarizing various other novels, signing off as “Oliver Haddo.” Most critics dismissed these allegations however.&lt;/p&gt;
-			&lt;p&gt;This is Maugham’s eighth novel. His next novel, published seven years later, became his most acclaimed and well-known: &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham/of-human-bondage"&gt;&lt;i&gt;Of Human Bondage&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;In Paris, surgeon Arthur Burdon and his fiancé are introduced to Oliver Haddo, a wealthy Englishman from an old family who claims to be a magician trained in the occult. At first they are unconvinced and irritated by Haddo’s boasts; however he soon demonstrates his powers in more and more fateful ways.&lt;/p&gt;
+			&lt;p&gt;The character of Oliver Haddo is an unflattering caricature of the English occultist Alistair Crowley, whom &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;Maugham&lt;/a&gt; had met while living in Paris. Crowley himself wrote a review in &lt;i&gt;Vanity Fair&lt;/i&gt; in which he accused Maugham of plagiarizing various other novels, signing off as “Oliver Haddo.” Most critics dismissed these allegations.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14257</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000414696</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">72472</meta>
+		<meta property="se:reading-ease.flesch">74.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Magician</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-somerset-maugham_the-magician</meta>
 		<dc:creator id="author">W. Somerset Maugham</dc:creator>
@@ -80,6 +78,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
