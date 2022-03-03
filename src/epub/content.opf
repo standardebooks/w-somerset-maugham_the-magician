@@ -65,9 +65,9 @@
 		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The PG Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">PG Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/c/</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Lukas Bystricky</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Bystricky, Lukas</meta>
