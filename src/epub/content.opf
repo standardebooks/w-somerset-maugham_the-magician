@@ -45,7 +45,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14257</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000414696</dc:source>
-		<meta property="se:word-count">72472</meta>
+		<meta property="se:word-count">71597</meta>
 		<meta property="se:reading-ease.flesch">74.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Magician</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-somerset-maugham_the-magician</meta>
